@@ -1,0 +1,11 @@
+node_modules/
+content/data/*.db
+content/images/
+content/logs/
+content/adapters/storage/
+*.log
+.ghost/
+.env
+.DS_Store
+Thumbs.db
+config.development.json
