@@ -1,0 +1,1 @@
+import{ad as e}from"./index-ZuWSQ3L6.js";const r="ReferrerHistoryResponseType",t=e({dataType:r,path:"/stats/referrers/"}),o=e({dataType:"TopSourcesGrowthResponseType",path:"/stats/top-sources-growth"});export{t as a,o as u};
